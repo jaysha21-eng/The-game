@@ -1,3 +1,97 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1777592010
+::res://::1777592366
 icon.svg::CompressedTexture2D::1790880795757653::1774825763::1774825777::1::::<><><>0<>0<>1d558fff71561543e2cf7e0d300c3350<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Drag Racing Assets/::1777592349
+Personal Licence.txt::TextFile::-1::1777592324::0::1::::<><><>0<>0<><>::
+tileset.png::CompressedTexture2D::3574971731078924877::1777592324::1777592374::1::::<><><>0<>0<>59dbd430f5a7f474fd1284fbb3cf02e7<>res://.godot/imported/tileset.png-c1c58adae0ecbb0496c4dc8f97813f5a.ctex::
+::res://Drag Racing Assets/Cars/::1777592349
+nitro_1.png::CompressedTexture2D::4000978014700070460::1777592324::1777592377::1::::<><><>0<>0<>e601b710342172efdcbe197f1bbb37e4<>res://.godot/imported/nitro_1.png-1bbf63e9793b606d9b359068057ce4e7.ctex::
+nitro_2.png::CompressedTexture2D::7168749534841010077::1777592324::1777592377::1::::<><><>0<>0<>4750558076df295ed20dc6cd1650e06b<>res://.godot/imported/nitro_2.png-fd363ef7eacbca2068c6bb8d1d355b99.ctex::
+smoke_1.png::CompressedTexture2D::3725650168434223294::1777592324::1777592376::1::::<><><>0<>0<>33b62fab879836f4abd5154e6674fdb7<>res://.godot/imported/smoke_1.png-a28fe49b5c3213449bb1590f90058f81.ctex::
+smoke_2.png::CompressedTexture2D::1302947513570820045::1777592324::1777592376::1::::<><><>0<>0<>b6f516994d6977f74f183a5296829fc5<>res://.godot/imported/smoke_2.png-9985da1cf3020939f730c56c83051c20.ctex::
+smoke_3.png::CompressedTexture2D::1481190456027404519::1777592324::1777592376::1::::<><><>0<>0<>022dcb23cff6f5bdaeb2397b6bdde24b<>res://.godot/imported/smoke_3.png-067db81458a54b7909d59f10e0765479.ctex::
+smoke_4.png::CompressedTexture2D::3516649815841945220::1777592324::1777592376::1::::<><><>0<>0<>fabeeb20a757cb50aa54003e88a2fc56<>res://.godot/imported/smoke_4.png-abea912ade30c66fe51af7a55b130202.ctex::
+::res://Drag Racing Assets/Cars/Blue Cars/::1777592348
+blue_normal_cars_sheet.png::CompressedTexture2D::3779741619633534219::1777592324::1777592376::1::::<><><>0<>0<>71e321ed8c085388799adc13c3426fb5<>res://.godot/imported/blue_normal_cars_sheet.png-d95225893d165bb3ba785a4a606888cd.ctex::
+blue_tier1_cars_sheet.png::CompressedTexture2D::7412187467093175757::1777592324::1777592376::1::::<><><>0<>0<>ffca9135d3651bca399d3e53a18fc8a9<>res://.godot/imported/blue_tier1_cars_sheet.png-b3d1d7ded49de42fd5638fa0ef2e4b2c.ctex::
+blue_tier2_cars_sheet.png::CompressedTexture2D::1538349274794499442::1777592324::1777592376::1::::<><><>0<>0<>9068c56c59ca5a8e3f7bd1de60dc8e8a<>res://.godot/imported/blue_tier2_cars_sheet.png-f0061a8b7ff7979e66a2b59800ad465f.ctex::
+blue_tier3_cars_sheet.png::CompressedTexture2D::945597584037943178::1777592324::1777592376::1::::<><><>0<>0<>16b62fec6ae3c3334d3b68283751e3fe<>res://.godot/imported/blue_tier3_cars_sheet.png-be2edc97fc61eed0beae31acff092a01.ctex::
+::res://Drag Racing Assets/Cars/Green Cars/::1777592348
+green_normal_cars_sheet.png::CompressedTexture2D::1729890153671486543::1777592324::1777592376::1::::<><><>0<>0<>6535e41d0d0d56df7c82927c744410b1<>res://.godot/imported/green_normal_cars_sheet.png-33acc8f85382471c1425222e48fb103b.ctex::
+green_tier1_cars_sheet.png::CompressedTexture2D::243481091514494300::1777592325::1777592376::1::::<><><>0<>0<>8e7de959437562c7ba6b0a49741992c1<>res://.godot/imported/green_tier1_cars_sheet.png-e195785b9b3d7ab364f74241d43c48f8.ctex::
+green_tier2_cars_sheet.png::CompressedTexture2D::6586110441897322639::1777592325::1777592376::1::::<><><>0<>0<>0a3b3ff5615a142163ebec6a10c15c85<>res://.godot/imported/green_tier2_cars_sheet.png-da801a12c0fef33f222df081eed2439e.ctex::
+green_tier3_cars_sheet.png::CompressedTexture2D::6481664692227026205::1777592325::1777592376::1::::<><><>0<>0<>51925addffb8c479ed8d46777669b86b<>res://.godot/imported/green_tier3_cars_sheet.png-d9a21a0a13ce2a71021775f7b08658e4.ctex::
+::res://Drag Racing Assets/Cars/Orange Cars/::1777592348
+orange_normal_cars_sheet.png::CompressedTexture2D::5972607551379174690::1777592325::1777592376::1::::<><><>0<>0<>adc06cadea998187a54ef652c24c9285<>res://.godot/imported/orange_normal_cars_sheet.png-752e40059b8dfc5c0139657e0a4f1e1d.ctex::
+orange_tier1_cars_sheet.png::CompressedTexture2D::2281507580584716299::1777592325::1777592376::1::::<><><>0<>0<>04e46edf99801953dc4304b71661f683<>res://.godot/imported/orange_tier1_cars_sheet.png-42d8f429add1e5b71456338b6fde623c.ctex::
+orange_tier2_cars_sheet.png::CompressedTexture2D::941144812621887345::1777592325::1777592376::1::::<><><>0<>0<>2ce9f211a281474c02d3dfcf19e9e256<>res://.godot/imported/orange_tier2_cars_sheet.png-df79ba9e0748e15435e0a58d9b63ca70.ctex::
+orange_tier3_cars_sheet.png::CompressedTexture2D::1994770669805121099::1777592325::1777592376::1::::<><><>0<>0<>e3557e25a9967bbd6574180f2df6fe93<>res://.godot/imported/orange_tier3_cars_sheet.png-5d369816a226864fff6efa03d9196800.ctex::
+::res://Drag Racing Assets/Cars/Purple Cars/::1777592348
+purple_normal_cars_sheet.png::CompressedTexture2D::3550230564381680035::1777592325::1777592376::1::::<><><>0<>0<>de34b3ae1af30b19cf3d982c6b58a3dc<>res://.godot/imported/purple_normal_cars_sheet.png-04ac2ddaa74ae8fa1b27cf5e89300a4a.ctex::
+purple_tier1_cars_sheet.png::CompressedTexture2D::5361810722887863997::1777592325::1777592376::1::::<><><>0<>0<>b4c940d7052a0807c8bb646159d9bc21<>res://.godot/imported/purple_tier1_cars_sheet.png-8fbbbcf6d16318acfd7a77a13970644d.ctex::
+purple_tier2_cars_sheet.png::CompressedTexture2D::8978223330056478820::1777592325::1777592375::1::::<><><>0<>0<>de6c8f8cfc5d02d549964c4e3052b1cd<>res://.godot/imported/purple_tier2_cars_sheet.png-2b7732767c4a7f06626d225dbf4fff1d.ctex::
+purple_tier3_cars_sheet.png::CompressedTexture2D::1390682440215594773::1777592325::1777592375::1::::<><><>0<>0<>12f9f6cdfacf2efaa2270d252095479e<>res://.godot/imported/purple_tier3_cars_sheet.png-39d400e7ce8823090ec5dd86e48fd11b.ctex::
+::res://Drag Racing Assets/Cars/Red Cars/::1777592349
+red_normal_cars_sheet.png::CompressedTexture2D::405427735622643749::1777592325::1777592375::1::::<><><>0<>0<>6d5f4ad0823f15c8d95e0d073a748174<>res://.godot/imported/red_normal_cars_sheet.png-aad2c0c1d39fd42534e840cdb5832378.ctex::
+red_tier1_cars_sheet.png::CompressedTexture2D::5405159407707712860::1777592325::1777592375::1::::<><><>0<>0<>c8547687ba56e71e6639100d57164cbf<>res://.godot/imported/red_tier1_cars_sheet.png-fc61b00d718547227740f916af7b4acf.ctex::
+red_tier2_cars_sheet.png::CompressedTexture2D::483454835014912009::1777592325::1777592375::1::::<><><>0<>0<>984b922b9eed7591e7b12db9e4b55606<>res://.godot/imported/red_tier2_cars_sheet.png-a35c5acfa8da5b353cc38e236be43f14.ctex::
+red_tier3_cars_sheet.png::CompressedTexture2D::6092514253805078566::1777592325::1777592375::1::::<><><>0<>0<>365091d97b08e62df3094302af3ec975<>res://.godot/imported/red_tier3_cars_sheet.png-ffb09ee6386aebbf5f4de3d7700735d6.ctex::
+::res://Drag Racing Assets/Cars/Yellow Cars/::1777592349
+yellow_normal_cars_sheet.png::CompressedTexture2D::7335216492588748542::1777592325::1777592377::1::::<><><>0<>0<>fbf323d6381e397f5f3e420db6c19d6f<>res://.godot/imported/yellow_normal_cars_sheet.png-c52d45b8a8f2fe90fe4f18bf20b39267.ctex::
+yellow_tier1_cars_sheet.png::CompressedTexture2D::4190066938397126898::1777592326::1777592377::1::::<><><>0<>0<>4eddabaa9583d403ed06a9a93c11f02d<>res://.godot/imported/yellow_tier1_cars_sheet.png-51a571aa262d88b02350f590d2210345.ctex::
+yellow_tier2_cars_sheet.png::CompressedTexture2D::6438148147130332455::1777592326::1777592377::1::::<><><>0<>0<>af051aeed321036d21fc81a26ab97864<>res://.godot/imported/yellow_tier2_cars_sheet.png-eeecd1554870f299765d2b94de17a325.ctex::
+yellow_tier3_cars_sheet.png::CompressedTexture2D::7404713068786293888::1777592326::1777592377::1::::<><><>0<>0<>5b9ce5e22608b664f15e878499f2b8f6<>res://.godot/imported/yellow_tier3_cars_sheet.png-e48535fdd4a145e5918c9f47fb6b2fe7.ctex::
+::res://Drag Racing Assets/HUD/::1777592350
+acceleration_icon.png::CompressedTexture2D::6518022564461552031::1777592326::1777592374::1::::<><><>0<>0<>88a2a8bca3ea2c79b7534126adc4e96a<>res://.godot/imported/acceleration_icon.png-7e7968d8c240e52453bb6618f9474f13.ctex::
+arrow_left.png::CompressedTexture2D::1535744189513877253::1777592326::1777592374::1::::<><><>0<>0<>931f39788dbd5d5e17a17585dc29da01<>res://.godot/imported/arrow_left.png-ed7d4c8ebfd87dabaf94831b7b8b83ab.ctex::
+arrow_right.png::CompressedTexture2D::4824064640754654050::1777592326::1777592374::1::::<><><>0<>0<>568d07c72ba006640a7c0d6987e80e3e<>res://.godot/imported/arrow_right.png-eb02646c705490f1377c1d68c73b5d04.ctex::
+big_numbers.png::CompressedTexture2D::8878430517271907236::1777592326::1777592374::1::::<><><>0<>0<>d52bf1fc167abbd79e3ec74695ed7bf1<>res://.godot/imported/big_numbers.png-613c9cb7b3582f87e546f0c2b7223b6c.ctex::
+engine_icon.png::CompressedTexture2D::3483554482501077489::1777592326::1777592374::1::::<><><>0<>0<>73ae3da00475c4b483c162a2e3ac4564<>res://.godot/imported/engine_icon.png-a71bec63f0de53008cbb62133cbd3bf5.ctex::
+fonts.png::CompressedTexture2D::3100281751504549580::1777592326::1777592374::1::::<><><>0<>0<>a0f31adf4387e3f8ae3bfe9f2ea4a0e7<>res://.godot/imported/fonts.png-211fde34edb7935e6f736740c6366f08.ctex::
+gear_word.png::CompressedTexture2D::6504868701954634520::1777592326::1777592374::1::::<><><>0<>0<>4f2cf441ac1456f3ae8b6913b0646834<>res://.godot/imported/gear_word.png-b011cd7dfa41881e899bda8e77a0458a.ctex::
+label_1.png::CompressedTexture2D::5197931674788144498::1777592326::1777592374::1::::<><><>0<>0<>c730251a0a5b9408731b4a773431e6ae<>res://.godot/imported/label_1.png-a86294ca3825d070d8c32a7e790d67c6.ctex::
+label_2.png::CompressedTexture2D::5379382820808594126::1777592326::1777592374::1::::<><><>0<>0<>319a7ba7e3be12272c7b469a28943985<>res://.godot/imported/label_2.png-651adab2f75b6b16004a40868d263a30.ctex::
+line.png::CompressedTexture2D::2662660703232464652::1777592326::1777592374::1::::<><><>0<>0<>044faf43c9e774ab957a161d820b1280<>res://.godot/imported/line.png-9d77c9878617f003ed889c3c07bc3ec3.ctex::
+money_icon.png::CompressedTexture2D::446567533935724151::1777592326::1777592374::1::::<><><>0<>0<>93ffe529fdd255971c5ff07870f11fe1<>res://.godot/imported/money_icon.png-0112dc784c515d2c84fff9735016e55e.ctex::
+mph_word.png::CompressedTexture2D::6526029789484104150::1777592326::1777592374::1::::<><><>0<>0<>270b2bf0faab7ec2fefc602cd18ab572<>res://.godot/imported/mph_word.png-0dc58359cdaaf0a76b540eb37de760ed.ctex::
+nitro_icon.png::CompressedTexture2D::4780535749942052727::1777592326::1777592374::1::::<><><>0<>0<>8e9820fbacaef50b0c77d93730c786e9<>res://.godot/imported/nitro_icon.png-be1b37422a696df66753446695a1d372.ctex::
+nitro_icon_.png::CompressedTexture2D::479842989313801872::1777592327::1777592374::1::::<><><>0<>0<>bfa3583692676e18aa6001ca57af6e13<>res://.godot/imported/nitro_icon_.png-e753b92c4e23cbb8217aa9d9e40bf660.ctex::
+nitro_segment.png::CompressedTexture2D::5657543859311716012::1777592327::1777592374::1::::<><><>0<>0<>6c5279521cdad0e1f5c87dc48d6c0758<>res://.godot/imported/nitro_segment.png-f597c7b28833d046fc8ebb05e2e007a6.ctex::
+segment.png::CompressedTexture2D::4524636613280254338::1777592327::1777592374::1::::<><><>0<>0<>e9e3730a767530a40545e28d90afb6c1<>res://.godot/imported/segment.png-40a0a4e1a5ed56100f2cbe7e039dfdb6.ctex::
+::res://Drag Racing Assets/HUD/Acceleration Bar/::1777592350
+indicator.png::CompressedTexture2D::6096056263006582299::1777592327::1777592376::1::::<><><>0<>0<>9313f5c9b4403372e8c4008bfb0481af<>res://.godot/imported/indicator.png-4c379edfdac9cfdef21770609846b9e9.ctex::
+label.png::CompressedTexture2D::2057038638691987215::1777592327::1777592376::1::::<><><>0<>0<>d4d9299a633b3983c29eba74fbd4bff7<>res://.godot/imported/label.png-910131a588cb13d28c8a1cab1b1075b7.ctex::
+segment.png::CompressedTexture2D::2848083829897283493::1777592327::1777592376::1::::<><><>0<>0<>1c5ab79a681747ee99e17dafd3f8eb9f<>res://.godot/imported/segment.png-68296e02e590f45b48a039508b9102ff.ctex::
+zone1.png::CompressedTexture2D::7951385631066727207::1777592327::1777592376::1::::<><><>0<>0<>817e63561acc151e830fb520267e3276<>res://.godot/imported/zone1.png-edad3538ef740dada35bc186134e400c.ctex::
+zone2.png::CompressedTexture2D::6501348582457882233::1777592327::1777592376::1::::<><><>0<>0<>6473a909171e419141fdc3fbf2865c94<>res://.godot/imported/zone2.png-e4588455e3b4c8127ed19c1656546ce0.ctex::
+zone3.png::CompressedTexture2D::5437394928077415927::1777592327::1777592376::1::::<><><>0<>0<>24b3e79ac89ecc5925ec278ff2753f0d<>res://.godot/imported/zone3.png-2a815d05d99da278cd311c15f5ef325b.ctex::
+::res://Drag Racing Assets/HUD/Path/::1777592350
+cars_icons.png::CompressedTexture2D::7342969873721927552::1777592327::1777592376::1::::<><><>0<>0<>e467644cc2b80c30c8498ec7cd4f51da<>res://.godot/imported/cars_icons.png-e025c32a248f627a68271449716aa18c.ctex::
+finish_line.png::CompressedTexture2D::1170972837475591377::1777592327::1777592376::1::::<><><>0<>0<>5f55ef5c60bb4713519ad05f46558983<>res://.godot/imported/finish_line.png-6038751ae36d91c26e26f4c981a94ecc.ctex::
+flag.png::CompressedTexture2D::4513809038028269148::1777592327::1777592376::1::::<><><>0<>0<>bba947f1210f946d8b1ef0f224b42f1a<>res://.godot/imported/flag.png-566fb6b27c63c04a003c56aea1082eae.ctex::
+label.png::CompressedTexture2D::5538964301410737515::1777592327::1777592376::1::::<><><>0<>0<>37a7d905ac9d415c032e06e3dbfdb234<>res://.godot/imported/label.png-77f814e86389c77b1496c7f26af5235b.ctex::
+segment.png::CompressedTexture2D::2696902177161853041::1777592327::1777592374::1::::<><><>0<>0<>e196c6f50ccf7f9a7f8acf60f3606dda<>res://.godot/imported/segment.png-8965dbe57d65a50069cff3d873e919e7.ctex::
+::res://Grand Prix/::1777592366
+::res://Grand Prix/Cars/::1777592314
+cars_1.png::CompressedTexture2D::256035268734563732::1777592252::1777592374::1::::<><><>0<>0<>2cef5cb52b6ba2b9297e81ca21d15223<>res://.godot/imported/cars_1.png-4152b88f18f201b2eb07766944f573af.ctex::
+cars_2.png::CompressedTexture2D::8003583190310448255::1777592252::1777592375::1::::<><><>0<>0<>c711526d25266b779d59c6717fbf3a30<>res://.godot/imported/cars_2.png-e9119a203393499525e61104c751481e.ctex::
+::res://Grand Prix/HUD/::1777592314
+big_numebers.png::CompressedTexture2D::6619054601104137466::1777592252::1777592375::1::::<><><>0<>0<>1a2a56eb0ae8d15b34478bb42c3c6f75<>res://.godot/imported/big_numebers.png-17d001e522a61760d8f224c381f8aa93.ctex::
+car_image.png::CompressedTexture2D::5305132187720176196::1777592253::1777592375::1::::<><><>0<>0<>e686983b26117b89295147c9d22a927d<>res://.godot/imported/car_image.png-7ed04cc087abc97ef86c138e37f8dbce.ctex::
+empty_segment_1.png::CompressedTexture2D::310174625838916072::1777592253::1777592375::1::::<><><>0<>0<>4a25a006f4cd7227194689ca9b82f8ba<>res://.godot/imported/empty_segment_1.png-077d3b0e2b0a74638cdd73f76f83eaa3.ctex::
+empty_segment_2.png::CompressedTexture2D::3077515000734660645::1777592253::1777592375::1::::<><><>0<>0<>d61ba4a0290969a169855548aa62a758<>res://.godot/imported/empty_segment_2.png-2e5d1579a39e7a1ac7e0440229a596ba.ctex::
+empty_segment_3.png::CompressedTexture2D::4386872675380716240::1777592253::1777592375::1::::<><><>0<>0<>a62221177cd790d3a70b1556646ee2ac<>res://.godot/imported/empty_segment_3.png-1e1282721de7a5a393c7d41e598376f9.ctex::
+empty_segment_4.png::CompressedTexture2D::8525372379546369161::1777592253::1777592375::1::::<><><>0<>0<>e799dc7759b16f89fd53161e4fdb9464<>res://.godot/imported/empty_segment_4.png-314df08573ce38e6a66b78ea65cd0a22.ctex::
+empty_segment_5.png::CompressedTexture2D::7605027466516515895::1777592253::1777592375::1::::<><><>0<>0<>0ec41670cbb61a52395ceb9e80569f3f<>res://.godot/imported/empty_segment_5.png-fe942aa3f111fa8abbc6c0d10c2203a0.ctex::
+fonts.png::CompressedTexture2D::4215774129349245727::1777592253::1777592375::1::::<><><>0<>0<>3feda52e39e149efb91cde0713059413<>res://.godot/imported/fonts.png-da1a610f404831e588d644e8ac271170.ctex::
+full_segment_1.png::CompressedTexture2D::6308882200656030676::1777592253::1777592375::1::::<><><>0<>0<>833baf4ff08a5289d4e3aadb31a661eb<>res://.godot/imported/full_segment_1.png-83432915496ce90ffd0a209897bc1819.ctex::
+full_segment_2.png::CompressedTexture2D::881080656225979674::1777592254::1777592374::1::::<><><>0<>0<>64f08e788ffffe092e32d7a18c4ba93c<>res://.godot/imported/full_segment_2.png-963e6931e508e90fcb0d3680b3d76921.ctex::
+full_segment_3.png::CompressedTexture2D::5324645424719464754::1777592254::1777592374::1::::<><><>0<>0<>3ec8c588cefbd41f86f9a154e4446f44<>res://.godot/imported/full_segment_3.png-3aa87525e151f963151a4d7b026a41b2.ctex::
+full_segment_4.png::CompressedTexture2D::4779159729290037762::1777592254::1777592374::1::::<><><>0<>0<>67bcf6a59368da17f1a5f15f079c1f86<>res://.godot/imported/full_segment_4.png-38490cba75f6959323b71edab851e289.ctex::
+full_segment_5.png::CompressedTexture2D::3848535641130424926::1777592254::1777592374::1::::<><><>0<>0<>7bb2844a3af1f5e332afbed8a2101cd0<>res://.godot/imported/full_segment_5.png-a2d7c512b8d6e59ac4e831cb9a3daad5.ctex::
+km.png::CompressedTexture2D::4247393575472630356::1777592254::1777592374::1::::<><><>0<>0<>442b91df35decf5329d049132ef69d89<>res://.godot/imported/km.png-f6dd5bd871107ca178f0f60e14e08523.ctex::
+label_1.png::CompressedTexture2D::7925260484049322954::1777592254::1777592374::1::::<><><>0<>0<>69a4acf1d404f1c92e0765f39090030d<>res://.godot/imported/label_1.png-44f5b00f5baa94be0097788438cc310c.ctex::
+label_2.png::CompressedTexture2D::4452249953822943434::1777592254::1777592374::1::::<><><>0<>0<>e7112b13fc8c3ca12f9216144588c829<>res://.godot/imported/label_2.png-1e00019f03f483197e62cc5a8a171041.ctex::
+stoplight.png::CompressedTexture2D::2249817133856717911::1777592254::1777592374::1::::<><><>0<>0<>e4dedabf1bc612a73c63e6cc85532c60<>res://.godot/imported/stoplight.png-e802be1b43a3fe375fa903b13063e9c4.ctex::
+title.png::CompressedTexture2D::9085514365198568184::1777592254::1777592374::1::::<><><>0<>0<>8d9480d31864a9df551f86a28f3583b8<>res://.godot/imported/title.png-b08d04d78a958f4be4f6be597654771e.ctex::
+victory_flag.png::CompressedTexture2D::6903689727949035547::1777592254::1777592374::1::::<><><>0<>0<>b77dd20001af4bd7bbe200f3af7e3fa6<>res://.godot/imported/victory_flag.png-f681ab6f7b9efe7a3e8656a78ac5f15e.ctex::

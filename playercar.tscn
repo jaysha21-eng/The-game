@@ -1,0 +1,39 @@
+[gd_scene format=3 uid="uid://02iih0jibc7s"]
+
+[ext_resource type="Texture2D" uid="uid://dwa4mf1q0avc" path="res://Grand Prix/Cars/cars_1.png" id="1_b5bsl"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_b5bsl"]
+radius = 7.0
+height = 24.0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fig26"]
+atlas = ExtResource("1_b5bsl")
+region = Rect2(32, 0, 16, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ivg4b"]
+atlas = ExtResource("1_b5bsl")
+region = Rect2(48, 0, 16, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_f22vm"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fig26")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ivg4b")
+}],
+"loop": true,
+"name": &"default",
+"speed": 20.0
+}]
+
+[node name="playercar" type="CharacterBody2D" unique_id=743970681]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1186649522]
+shape = SubResource("CapsuleShape2D_b5bsl")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1976246080]
+sprite_frames = SubResource("SpriteFrames_f22vm")
+autoplay = "default"
+frame_progress = 0.9936957
